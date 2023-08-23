@@ -1,13 +1,23 @@
-- 👋 Hi, I’m @TaylorBisset
-- 👀 I’m interested in programming basics and game development.
-- 🎓 I'm enrolled in school, majoring in Computer Science.
-- 🌱 I’m currently learning web development with [The Odin Project](https://www.theodinproject.com/ "High quality coding education created by an open-source comunity").<br>
-I am also learning <u>CS50X Introduction to Computer Science</u> and<br>
-<u>CS50G Intro to Game Development</u> on [edX](https://www.edx.org/) with Harvard University.
-- 💞️ I’m looking to collaborate on beginner projects.
-- 📫 You can reach me through [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset), or through links on my profile page.
+# Hi there, I'm Taylor Bisset 👋
 
-<!---
-TaylorBisset/TaylorBisset is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I'm a Computer Science student passionate about programming and game development.
+
+🌱 Currently, I'm expanding my skill set through web development with [The Odin Project](https://www.theodinproject.com/ "High quality coding education created by an open-source comunity"). Additionally, I'm diving into the world of computer science through CS50X Introduction to Computer Science and CS50G Intro to Game Development on [edX](https://www.edx.org/) with Harvard University.
+
+👀 I'm keenly interested in mastering programming basics and using that foundation to craft immersive game experiences.
+
+## 🛠️ What I'm Up To
+
+- 📚 Majoring in Computer Science in school, where I'm constantly exploring the exciting realms of technology.
+- 💻 Learning web development with The Odin Project to create dynamic and user-friendly websites.
+- 🎮 Exploring game development through CS50G and excited to bring my own gaming ideas to life.
+
+## 🤝 Let's Collaborate
+
+I'm eager to contribute to beginner-level projects and collaborate with fellow enthusiasts. Whether it's coding or game design, count me in!
+
+## 📫 Reach Me
+
+Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). You can also find additional contact information and details on my profile page.
+
+Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀
