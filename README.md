@@ -29,7 +29,7 @@ Feel free to connect with me on [Telegram](https://telegram.org/ "globally acces
 
 You can also find additional contact information and details on my profile page. 
 
-## 📊 GitHub Stats 
+## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=dark&show=commits"https://github.com/anuraghazra/github-readme-stats")
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=github_dark) 
