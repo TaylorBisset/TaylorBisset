@@ -15,11 +15,10 @@
 - 🌐 **Web Development:** Node.js, React.js, 
 - 🎮 **Game Development:** Unreal Engine, Unity 
 
-## 🚀 Projects
-- [Simple Banking System](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject):
-  - Honors project focusing on class structures, encryption, and user profile management. 
-- [Fight Simulation](https://github.com/TaylorBisset/CS132-Honors-FightSim):
-  - Honors project text-based console-window fighting simulator game. 
+## 🚀 Projects 
+[![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
+
+[![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
 
 ## 🤝 Let's Collaborate 
 I'm eager to contribute to coding or game design projects. Interested in open-source contributions and collaborative game development. 
