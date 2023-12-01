@@ -30,6 +30,14 @@ Feel free to connect with me on [Telegram](https://telegram.org/ "globally acces
 You can also find additional contact information and details on my profile page. 
 
 ## 📊 GitHub Stats 
-[![Taylor Bisset's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=radical)](https://github.com/TaylorBisset) 
+![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=dark&show=commits"https://github.com/anuraghazra/github-readme-stats")
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=github_dark) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&layout=donut&theme=github_dark) 
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&theme=github_dark) 
+
+<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=github_dark) -->
 
 Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀 
