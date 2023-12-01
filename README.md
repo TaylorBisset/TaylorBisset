@@ -1,23 +1,36 @@
-# Hi there, I'm Taylor Bisset 👋
+# Hi there, I'm Taylor Bisset 👋 
 
-🎓 I'm a Computer Science student passionate about programming and game development.
+🎓 Honors Computer Science student passionate about programming and game development. 
+🌱 Currently expanding skills through web development with [The Odin Project](https://www.theodinproject.com/ "High-quality coding education created by an open-source community") and CS50X/CS50G on [edX](https://www.edx.org/) with Harvard University. 
 
-🌱 Currently, I'm expanding my skill set through web development with [The Odin Project](https://www.theodinproject.com/ "High quality coding education created by an open-source comunity"). Additionally, I'm diving into the world of computer science through CS50X Introduction to Computer Science and CS50G Intro to Game Development on [edX](https://www.edx.org/) with Harvard University.
+## 🛠️ What I'm Up To 
+- 📚 Majoring in Computer Science at Everett Community College. 
+- 💻 Learning web development and crafting dynamic websites. 
+- 🎮 Exploring game development through CS50G to bring ideas to life. 
 
-👀 I'm keenly interested in mastering programming basics and using that foundation to craft immersive game experiences.
+## ⚙️ Skills 
+- **Languages:** C++, Python, Lua, JavaScript, HTML, CSS 
+- **Tools & Technologies:** Git, Ubuntu, Visual Studio, Unreal Engine 
 
-## 🛠️ What I'm Up To
+## ⚒️ Tools & Technologies
+- 📚 Version Control: Git, GitHub 
+- 💻 IDEs: Visual Studio Code, Visual Studio 
+- 🌐 Web Development: Node.js, React.js, 
+- 🎮 Game Development: Unreal Engine, Unity 
 
-- 📚 Majoring in Computer Science in school, where I'm constantly exploring the exciting realms of technology.
-- 💻 Learning web development with The Odin Project to create dynamic and user-friendly websites.
-- 🎮 Exploring game development through CS50G and excited to bring my own gaming ideas to life.
+## 🚀 Projects
+- [Simple Banking System](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject):
+-- Honors project focusing on class structures, encryption, and user profile management. 
+- [Fight Simulation](https://github.com/TaylorBisset/CS132-Honors-FightSim):
+-- Honors project ext-based console-window fighting simulator game. 
 
-## 🤝 Let's Collaborate
+## 🤝 Let's Collaborate 
+I'm eager to contribute to coding or game design projects. Interested in open-source contributions and collaborative game development. 
 
-I'm eager to contribute to beginner-level projects and collaborate with fellow enthusiasts. Whether it's coding or game design, count me in!
+## 📊 GitHub Stats 
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=radical)](https://github.com/TaylorBisset) 
 
-## 📫 Reach Me
+## 📫 Reach Me 
+Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). You can also find additional contact information and details on my profile page. 
 
-Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). You can also find additional contact information and details on my profile page.
-
-Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀
+Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀 
