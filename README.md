@@ -29,11 +29,11 @@ Feel free to connect with me on [Telegram](https://telegram.org/ "globally acces
 You can also find additional contact information and details on my profile page. 
 
 ## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=onedark "https://github.com/anuraghazra/github-readme-stats")
+![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=onedark) 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=onedark) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&hide_title=true&layout=donut&theme=onedark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=donut&theme=onedark) 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&row=2&column=4&theme=onedark) 
 
