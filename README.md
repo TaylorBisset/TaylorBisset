@@ -33,7 +33,7 @@ You can also find additional contact information and details on my profile page.
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=onedark) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=donut&theme=onedark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=onedark) 
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&row=1&column=4&theme=onedark) 
 
