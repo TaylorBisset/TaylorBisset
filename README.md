@@ -35,7 +35,7 @@ You can also find additional contact information and details on my profile page.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&layout=donut&theme=darkone) 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&theme=darkone&row=2&column=4) 
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&hide_title=true&row=2&column=4&theme=darkone) 
 
 <!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=darkone) -->
 
