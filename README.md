@@ -1,7 +1,8 @@
 # Hi there, I'm Taylor Bisset 👋 
 
 - 🎓 Honors Computer Science student passionate about programming and game development. 
-- 🌱 Currently expanding skills through web development with [The Odin Project](https://www.theodinproject.com/ "High-quality coding education created by an open-source community") and CS50X/CS50G on [edX](https://www.edx.org/) with Harvard University. 
+- 🌱 Currently expanding skills through web development with [The Odin Project](https://www.theodinproject.com/ "High-quality coding education created by an open-source community") <br>
+and CS50X/CS50G on [edX](https://www.edx.org/) with Harvard University. 
 
 ## 👀 What I'm Up To 
 - 💼 Majoring in Computer Science at Everett Community College. 
@@ -21,11 +22,11 @@
 [![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
 
 ## 🤝 Let's Collaborate 
-I'm eager to contribute to coding or game design projects. Interested in open-source contributions and collaborative game development. 
+I'm eager to contribute to coding or game design projects. <br>
+Interested in open-source contributions and collaborative game development. 
 
 ## 📫 Reach Me 
-Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). 
-
+Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). <br>
 You can also find additional contact information and details on my profile page. 
 
 ## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
