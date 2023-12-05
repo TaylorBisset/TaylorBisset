@@ -36,7 +36,7 @@ You can also find additional contact information and details on my profile page.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=onedark) 
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=TaylorBisset&row=1&column=4&theme=onedark) 
+![GitHub Trophies](https://github-trophies.vercel.app/?username=TaylorBisset&row=3&column=4&theme=onedark) 
 
 <!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=onedark) -->
 
