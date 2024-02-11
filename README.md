@@ -1,43 +1,45 @@
-# Hi there, I'm Taylor Bisset 👋 
+<!-- TaylorBisset/README.md -->
 
-- 🎓 Honors Computer Science student passionate about programming and game development. 
-- 🌱 Currently expanding skills through web development with [The Odin Project](https://www.theodinproject.com/ "High-quality coding education created by an open-source community") <br>
-and CS50X/CS50G on [edX](https://www.edx.org/) with Harvard University. 
+# Hi, I'm Taylor! 👋 
+- 🎓 Honors Computer Science student deeply passionate about the intersection of technology and creativity 
+- 🌱 Currently expanding my skill set in web development through The Odin Project and AppAcademy 
+- 🕹️ Actively exploring the fascinating world of game development 
 
-## 👀 What I'm Up To 
-- 💼 Majoring in Computer Science at Everett Community College. 
-- 💡 Learning web development and crafting dynamic websites. 
-- 🕹️ Exploring game development through CS50G to bring ideas to life. 
-
-## ⚒️ Tools & Technologies
-- 💬 **Languages:** C++, Python, Lua, JavaScript, HTML, CSS 
-- 📚 **Version Control:** Git, GitHub 
-- 💻 **IDEs:** Visual Studio Code, Visual Studio 
-- 🌐 **Web Development:** Node.js, React.js, 
+## Skills 
+### Technical Skills 
+- 💻 **Languages:** C++, Python, Lua, JavaScript 
+- 📚 **Tools:** Git, GitHub, Visual Studio Code, Visual Studio 
+- 🌐 **Web Development:** Node.js, React.js 
 - 🎮 **Game Development:** Unreal Engine, Unity 
 
-## 🚀 Projects 
-[![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
+### Soft Skills 
+- 🎯 **Leadership:** Effective team guidance and motivation 
+- ⚒️ **Project Management:** Planning and executing projects on time and within budget  
+- 🤝 **Collaboration:** Experienced in team-based projects 
+- 💡 **Problem-Solving:** Analytical thinker with creative solutions 
+- 🧠 **Continuous Learning:** Committed to staying updated with industry trends  
+- 💬 **Communication:** Excellent verbal and written skills 
 
-[![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
+## Projects 
+[![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject&theme=tokyonight)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
+
+[![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim&theme=tokyonight)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
 
 ## 🤝 Let's Collaborate 
-I'm eager to contribute to coding or game design projects. <br>
-Interested in open-source contributions and collaborative game development. 
+Interested in collaborating or discussing projects? Let's connect and work together effectively.
 
 ## 📫 Reach Me 
-Feel free to connect with me on [Telegram](https://telegram.org/ "globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service") at [t.me/TaylorBisset](https://t.me/taylorbisset). <br>
-You can also find additional contact information and details on my profile page. 
+Connect with me on [Telegram](https://t.me/taylorbisset) or find additional details on my profile page. 
 
 ## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=onedark) 
+![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=tokyonight) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=onedark) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TaylorBisset&theme=tokyonight) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=onedark) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=tokyonight) 
 
-![GitHub Trophies](https://github-trophies.vercel.app/?username=TaylorBisset&row=3&column=4&theme=onedark) 
+![GitHub Trophies](https://github-trophies.vercel.app/?username=TaylorBisset&row=3&column=4&theme=tokyonight) 
 
-<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=onedark) -->
+<!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=tokyonight) -->
 
 Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀 
