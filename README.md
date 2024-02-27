@@ -7,8 +7,8 @@
 
 ## Skills 
 ### Technical Skills 
-- 💻 **Languages:** C++, Python, Lua, JavaScript 
-- 📚 **Tools:** Git, GitHub, Visual Studio Code, Visual Studio 
+- 📚 **Languages:** C++, Python, Lua, JavaScript 
+- 💻 **Tools:** Git, GitHub, Visual Studio Code, Visual Studio 
 - 🌐 **Web Development:** Node.js, React.js 
 - 🎮 **Game Development:** Unreal Engine, Unity 
 
