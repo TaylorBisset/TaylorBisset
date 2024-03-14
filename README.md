@@ -8,16 +8,16 @@
 ## Skills 
 ### Technical Skills 
 - 📚 **Languages:** C++, JavaScript, Python, Lua 
-- 💻 **Tools:** Git / GitHub, Visual Studio / Visual Studio Code
+- 💻 **Tools:** Git, Visual Studio / VS Code 
 - 🌐 **Web Development:** Node.js, React.js 
 - 🎮 **Game Development:** Unreal Engine, Unity 
 
 ### Soft Skills 
+- 💬 **Communication:** Excellent verbal and written skills
 - 🤝 **Collaboration:** Experienced in team-based projects 
-- 💬 **Communication:** Excellent verbal and written skills 
 - 💡 **Problem-Solving:** Analytical thinker with creative solutions 
+- 🧠 **Continuous Learning:** Committed to staying updated with industry trends
 - 🎯 **Leadership and Project Management:** Effective team guidance, planning, and execution 
-- 🧠 **Continuous Learning:** Committed to staying updated with industry trends 
 
 ## Projects 
 [![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject&theme=tokyonight)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
