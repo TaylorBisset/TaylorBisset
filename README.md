@@ -20,6 +20,8 @@
 - 🎯 **Leadership and Project Management:** Effective team guidance, planning, and execution 
 
 ## Projects 
+[![Digital Decent](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=DigitalDecent&theme=tokyonight)]([https://github.com/TaylorBisset/CS132-Honors-FightSim](https://github.com/TaylorBisset/DigitalDecent)) 
+
 [![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject&theme=tokyonight)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
 
 [![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim&theme=tokyonight)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
