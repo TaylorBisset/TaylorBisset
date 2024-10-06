@@ -7,10 +7,10 @@
 
 ## Skills 
 ### Technical Skills 
-- 📚 **Languages:** C++, JavaScript, Python, Lua 
+- 📚 **Languages:** C/C++, C#, Python, JavaScript, Lua 
 - 💻 **Tools:** Git, Visual Studio / VS Code 
 - 🌐 **Web Development:** Node.js, React.js 
-- 🎮 **Game Development:** Unreal Engine, Unity 
+- 🎮 **Game Development:** Unity, Unreal Engine 
 
 ### Soft Skills 
 - 💬 **Communication:** Excellent verbal and written skills
@@ -20,7 +20,6 @@
 - 🎯 **Leadership and Project Management:** Effective team guidance, planning, and execution 
 
 ## Projects 
-[![Digital Decent](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=DigitalDecent&theme=tokyonight)]([https://github.com/TaylorBisset/CS132-Honors-FightSim](https://github.com/TaylorBisset/DigitalDecent)) 
 
 [![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject&theme=tokyonight)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
 
