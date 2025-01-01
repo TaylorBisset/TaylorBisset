@@ -26,7 +26,7 @@ Interested in collaborating or discussing projects? Let's connect and work toget
 
 
 ## 📫 Reach Me 
-Connect with me on [Proton Mail](taylorbisset@protonmail.com) or find additional details on my profile page. 
+Connect with me from details on my profile page. 
 
 
 ## Projects 
