@@ -26,7 +26,7 @@ Interested in collaborating or discussing projects? Let's connect and work toget
 
 
 ## 📫 Reach Me 
-Connect with me from details on my profile page. 
+Connect with me from the details on my profile page. 
 
 
 ## Projects 
@@ -37,7 +37,7 @@ Connect with me from details on my profile page.
 
 
 ## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.25&count_weight=0.25&hide_title=true&layout=compact&theme=tokyonight) 
 
 <!-- ![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=tokyonight) -->
 
