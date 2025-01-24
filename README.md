@@ -5,7 +5,6 @@
 - 🌱 Currently expanding my skill set in web development 
 - 🕹️ Actively exploring the fascinating world of game development 
 
-
 ## Skills 
 ### Technical Skills 
 - 📚 **Languages:** C/C++, C#, Python, JavaScript, Lua 
@@ -19,15 +18,6 @@
 - 💡 **Problem-Solving:** Analytical thinker with creative solutions 
 - 🧠 **Continuous Learning:** Committed to staying updated with industry trends
 - 🎯 **Leadership and Project Management:** Effective team guidance, planning, and execution 
-
-
-## ⚒️ Let's Collaborate 
-Interested in collaborating or discussing projects? Let's connect and work together effectively.
-
-
-## 📫 Reach Me 
-Connect with me from the details on my profile page. 
-
 
 ## Projects 
 
@@ -46,6 +36,5 @@ Connect with me from the details on my profile page.
 <!-- ![GitHub Trophies](https://github-trophies.vercel.app/?username=TaylorBisset&row=3&column=4&theme=tokyonight) -->
 
 <!-- ![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=TaylorBisset&theme=tokyonight) -->
-
 
 Keep coding, keep gaming, and keep exploring the endless possibilities of technology! 🚀 
