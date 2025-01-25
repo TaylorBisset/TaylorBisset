@@ -5,9 +5,10 @@
 - 🌱 Currently expanding my skill set in web development 
 - 🕹️ Actively exploring the fascinating world of game development 
 
+
 ## Skills 
 ### Technical Skills 
-- 📚 **Languages:** C/C++, C#, Python, JavaScript, Lua 
+- 📚 **Languages:** C/C++, Python, C#, JavaScript, Lua 
 - 💻 **Tools:** Git, Visual Studio / VS Code 
 - 🎮 **Game Development:** Unity, Unreal Engine 
 <!-- - 🌐 **Web Development:** Node.js, React.js -->
@@ -19,6 +20,7 @@
 - 🧠 **Continuous Learning:** Committed to staying updated with industry trends
 - 🎯 **Leadership and Project Management:** Effective team guidance, planning, and execution 
 
+
 ## Projects 
 
 [![Simple Banking System](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS131-SimpleBankingSystem-HonorsProject&theme=tokyonight)](https://github.com/TaylorBisset/CS131-SimpleBankingSystem-HonorsProject) 
@@ -26,7 +28,8 @@
 [![Fight Simulation](https://github-readme-stats.vercel.app/api/pin/?username=TaylorBisset&repo=CS132-Honors-FightSim&theme=tokyonight)](https://github.com/TaylorBisset/CS132-Honors-FightSim) 
 
 
-## 📊 GitHub Stats <!-- https://github.com/anuraghazra/github-readme-stats -->
+## GitHub Stats 
+<!-- https://github.com/anuraghazra/github-readme-stats -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=1&count_weight=1&hide_title=true&layout=compact&theme=tokyonight) 
 
 <!-- ![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=tokyonight) -->
