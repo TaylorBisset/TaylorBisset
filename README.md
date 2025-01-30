@@ -30,7 +30,7 @@
 
 ## GitHub Stats 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=tokyonight&card_width=400px) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&hide_title=true&layout=compact&theme=tokyonight&card_width=400px&langs_count=8) 
 
 <!-- ![Taylor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaylorBisset&show_icons=true&theme=tokyonight) -->
 
