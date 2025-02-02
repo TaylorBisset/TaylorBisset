@@ -20,7 +20,7 @@
 - 🧠 **Continuous Learning:** Committed to staying updated with industry trends
 - 🎯 **Leadership & Project Management:** Effective team guidance, planning, and execution
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.75&count_weight=1&layout=compact&theme=tokyonight&card_width=400px&langs_count=8&hide=shaderlab,hlsl) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaylorBisset&size_weight=0.5&count_weight=0.5&layout=compact&theme=tokyonight&card_width=400px&langs_count=8&hide=shaderlab,hlsl,c) 
 
 
 ## Projects 
